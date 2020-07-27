@@ -1,0 +1,2 @@
+# Depression-Analysis-Using-Social-Media-Twitter-
+In this project, I have build a Convolutional Neural Network to predict if the tweets of a certain person are depressive or normal. I have compared the Convolutional Neural Network model with the Logistic Regression Model by finding out the accuracy of both the models. The Convolutional Neural Networks have a better and far more accuracy percentage i.e. 99.79% than the Logistic Regression which has an accuracy percentage of 83.775%.
